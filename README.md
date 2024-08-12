@@ -5,20 +5,7 @@
 
 - 🌱 I’m currently learning **Golang and react**
 
-- 👯 I’m looking to collaborate on [syned.xyz](syned.xyz)
-
-- 🤝 I’m looking for help with [Fivem Servers](syned.xyz)
-
-- 👨‍💻 All of my projects are available at [syned.xyz](syned.xyz)
-
-- 📝 I regularly write articles on [syned.xyz](syned.xyz)
-
-- 📫 How to reach me **code1337x@gmail.com**
-
-- 📄 Know about my experiences [syned.xyz](syned.xyz)
-
 - ⚡ Fun fact **I like to spend my time creating things that help the community or are really useful.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
